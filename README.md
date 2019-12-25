@@ -1,4 +1,4 @@
 # DMWEL
-Mathematica and Python code for "Dark matter with excitable levels" at http://arxiv.org/abs/1912.11453 
+### Mathematica and Python code for "Dark matter with excitable levels", by Andrew J. Wren, at http://arxiv.org/abs/1912.11453 
 
 THE CODE WILL BE POSTED IN THE NEXT FEW DAYS.
