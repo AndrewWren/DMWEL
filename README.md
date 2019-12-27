@@ -3,7 +3,7 @@
 
 The files, other than this `README.md`, are explained below. For further details, refer to the paper.
 
-`DMWEL_calculations.nb` is the main *Mathematica* notebook.
+`DMWEL_calculations.nb` is the main *Mathematica* notebook. If not already set up, you will need to configure MaTeX - see http://szhorvat.net/pelican/latex-typesetting-in-mathematica.html - to draw the figures.
 
 `dmwel_data.data` is a supporting datafile, which is used to avoid repeating long calculations.  Ensure that it is put in the same folder as `DMWEL_calculations.nb`.
 
